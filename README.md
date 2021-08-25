@@ -1,2 +1,3 @@
-# eshop
-masih dirubah lgi cuma ada dua tabel
+# E Commerce App
+
+E-Commerce App

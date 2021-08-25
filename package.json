@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "E-Commerce App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/binarxmuamalat/fswclass_1/e-commerce-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/binarxmuamalat/fswclass_1/e-commerce-app/issues"
+  },
+  "homepage": "https://gitlab.com/binarxmuamalat/fswclass_1/e-commerce-app#readme",
+  "dependencies": {
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5"
+  }
+}
